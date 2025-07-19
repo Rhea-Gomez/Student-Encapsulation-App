@@ -1,0 +1,14 @@
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.AssemblyInfoInputs.cache
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.AssemblyInfo.cs
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\bin\Debug\net8.0\StudentEncapsulation.exe
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\bin\Debug\net8.0\StudentEncapsulation.deps.json
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\bin\Debug\net8.0\StudentEncapsulation.runtimeconfig.json
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\bin\Debug\net8.0\StudentEncapsulation.dll
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\bin\Debug\net8.0\StudentEncapsulation.pdb
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.dll
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\obj\Debug\net8.0\refint\StudentEncapsulation.dll
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.pdb
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\obj\Debug\net8.0\StudentEncapsulation.genruntimeconfig.cache
+D:\Training\Assignments\StudentEncapsulation\StudentEncapsulation\obj\Debug\net8.0\ref\StudentEncapsulation.dll
